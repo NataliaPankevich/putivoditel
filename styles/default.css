@@ -104,23 +104,24 @@ iframe {
 
 @media (max-width:1240px) {
   :root {  
-    --container-padding: 75px;
+    --container-padding: 80px;
   }
 }
 
 @media (max-width:1024px) {
   :root {  
-    --container-padding: 65px;
+    --container-padding: 45px;
   }
 }
 
 @media (max-width:768px) {
   :root {  
-    --container-padding: 50px;
+    --container-padding: 40px;
   }
 }
-@media (max-width:560px) {
+
+@media (max-width:568px) {
   :root {  
-    --container-padding: 30px;
+    --container-padding: 35px;
   }
 }
